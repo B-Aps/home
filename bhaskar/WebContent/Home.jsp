@@ -28,10 +28,10 @@ font-family: "Karma", sans-serif}
   <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">Contact Us</a>
 </nav>
 
-<div class="w3-top">
+<div class="w3-top w3-bar w3-black">
   <div class="w3-xlarge" style="max-width:1200px;margin:auto">
-    <div class="w3-button w3-padding-16 w3-left" onclick="w3_open()">Menu</div>
-    <div class="w3-right w3-padding-16"><a href=#register>Login</a></div>
+    <div class="w3-button w3-padding-16 w3-display-topleft" onclick="w3_open()">Menu</div>
+    <div class="w3-right w3-padding-16 w3-display-topright"><a href=#register>Login</a></div>
     <div class="w3-center w3-padding-16">B-Aps</div>
   </div>
 </div>
