@@ -9,7 +9,7 @@
         <link rel="stylesheet" type="text/css" href="./style/about.css">
         <style type="text/css">
         body{
-	 background-image:url('pics/supp.jpg');
+	 background-image:url('./img/adult2.jpg');
     background-position:center;
     background-size:cover; 
 }
@@ -22,18 +22,8 @@
             </h1>
             <span class="border"></span>
             <div class="ps">               
-               <a href="#p1" ><img src="./pics/amazon1.png" alt="Image 1"></a>
-               <a href="#p2" ><img src="./pics/flip.png" alt="Image 2"></a>
-               <a href="#p3" ><img src="./pics/Jabong.png" alt="Image 3"></a>
-               <a href="#p4" ><img src="./pics/myntra.png" alt="Image 4"></a>
-			   <a href="#p4" ><img src="./pics/ShopClues.png" alt="Image 5"></a>
-			   			   <a href="#p4" ><img src="./pics/ebay4.jpg" alt="Image 7"></a>
-			   
-			   <a href="#p4" ><img src="./pics/Snapdeal.png" alt="Image 6"></a>
-			   <a href="#p4" ><img src="./pics/voonik.png" alt="Image 8"></a>
-			   
-
-				
+               <a href="#p1" ><img src="./img/man.jpg" alt="Image 1"></a>
+               <a href="#p2" ><img src="./img/docto.jpg" alt="Image 2"></a>
             </div>
          
         </div>

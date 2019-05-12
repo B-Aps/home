@@ -39,12 +39,13 @@
     border-color: 3px solid #fff;
 }
 .ps a img{
-    width: 100%;
-    filter: grayscale(100%); 
+    width: 80%;
+    filter: none;
     transition: 0.4s all;
 }
 .ps a:hover > img{
-    filter: none;
+   
+    filter: grayscale(100%);
 }
 .section{
     width: 600px;

@@ -15,8 +15,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  opacity: 0.8;
-  filter: alpha(opacity=80);
+  
 
 }
 </style>
@@ -25,7 +24,7 @@ img {
 <br>
 <br>
 <br>
-<img src="./pics/contact.jpg" alt="Contact Us" style="width:60%;">
+<img src="./pics/cc.png" alt="Contact Us" style="width:100%;">
 
 </body>
 
